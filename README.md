@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sandeep 🌷</h1>
 
-<!--
-**sandeep-2401/sandeep-2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Computer Science Student  
+  🌿 Backend Explorer  
+  🌸 Learning AI & Systems  
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=F8A5C2&center=true&vCenter=true&width=600&lines=Building+calm+but+powerful+systems;Exploring+AI+and+LLMs;Learning+deeply%2C+building+thoughtfully" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌷 About Me
+
+🌼 Curious developer who enjoys building structured systems  
+🌱 Exploring backend architecture & scalable design  
+✨ Always learning something new  
+
+---
+
+## 🎨 Tech Stack
+
+### 💗 Languages
+-
+
+### 💜 Frameworks
+-
+
+### 🌿 Tools
+-
+
+---
+
+## 🧁 Projects
+
+### 🍓 Project One
+> Short description here
+
+### 🫐 Project Two
+> Short description here
+
+---
+
+## 🌙 Currently Learning
+
+-
+
+---
+
+## 🌸 Goals
+
+> Grow quietly. Build powerfully.
+
+---
+
+## 💌 Connect
+
+- 💼 LinkedIn:
+- 🌐 Portfolio:
