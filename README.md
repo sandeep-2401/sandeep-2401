@@ -1,61 +1,50 @@
-<h1 align="center">Hi, I'm Sandeep 🌷</h1>
+<h1 align="center">Hi, I'm Sandeep</h1>
 
 <p align="center">
-  💻 Computer Science Student  
-  🌿 Backend Explorer  
-  🌸 Learning AI & Systems  
+  Backend-Focused Developer • Systems Learner • AI Explorer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=F8A5C2&center=true&vCenter=true&width=600&lines=Building+calm+but+powerful+systems;Exploring+AI+and+LLMs;Learning+deeply%2C+building+thoughtfully" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=89CFF0&center=true&vCenter=true&width=600&lines=Building+scalable+systems;Exploring+AI+and+LLMs;Learning+deeply%2C+building+intentionally" />
 </p>
 
 ---
 
-## 🌷 About Me
+## 🧠 About
 
-🌼 Curious developer who enjoys building structured systems  
-🌱 Exploring backend architecture & scalable design  
-✨ Always learning something new  
-
----
-
-## 🎨 Tech Stack
-
-### 💗 Languages
--
-
-### 💜 Frameworks
--
-
-### 🌿 Tools
--
+- Computer Science student (2028)
+- Interested in backend systems & scalable architecture
+- Exploring AI, LLMs, and system design
 
 ---
 
-## 🧁 Projects
+## 🛠 Tech Stack
 
-### 🍓 Project One
-> Short description here
+### Languages
+-
 
-### 🫐 Project Two
-> Short description here
+### Frameworks
+-
 
----
-
-## 🌙 Currently Learning
-
+### Tools
 -
 
 ---
 
-## 🌸 Goals
+## 🚀 Projects
 
-> Grow quietly. Build powerfully.
+### Project One
+> Short description
+
+### Project Two
+> Short description
 
 ---
 
-## 💌 Connect
+## 📚 Currently Learning
+-
 
-- 💼 LinkedIn:
-- 🌐 Portfolio:
+---
+
+## 🎯 Direction
+Building strong fundamentals in systems & AI.
