@@ -39,6 +39,7 @@ I focus on writing backend logic that is predictable, structured, and production
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-0F172A?style=for-the-badge&logo=cloudflare)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
