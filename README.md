@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  TypeScript • Node.js • WebSockets • PostgreSQL • Cloudflare Workers
+  TypeScript • Node.js • Express • Next.js • PostgreSQL • WebSockets
 </p>
 
 ---
